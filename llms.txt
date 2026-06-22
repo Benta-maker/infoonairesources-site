@@ -1,0 +1,25 @@
+# InfoOnAIResources
+
+InfoOnAIResources is a curated hub for AI resources, governance, safety, and selected external AI opportunities.
+
+## Key public pages
+
+- Home: https://www.infoonairesources.shop/
+- Jobs index: https://www.infoonairesources.shop/jobs/
+- Legacy opportunities jobs URL: https://www.infoonairesources.shop/opportunities/jobs/
+- Anthropic Research Engineer, Domain Scaling listing: https://www.infoonairesources.shop/jobs/anthropic-research-engineer-domain-scaling/
+- Resources: https://www.infoonairesources.shop/resources.html
+- Security: https://www.infoonairesources.shop/security.html
+- Sitemap: https://www.infoonairesources.shop/sitemap.xml
+
+## Current curated job opportunities
+
+### Anthropic — Research Engineer, Domain Scaling
+
+- Public curated listing: https://www.infoonairesources.shop/jobs/anthropic-research-engineer-domain-scaling/
+- Official application page: https://job-boards.greenhouse.io/anthropic/jobs/5271380008
+- Note: This is an external role. InfoOnAIResources is not the employer or recruiter. Applications are submitted directly through Anthropic's official application portal.
+
+## Crawler guidance
+
+AI crawlers may read public pages listed here for indexing, summarization, and search discovery. Use the official Anthropic Greenhouse URL as the source of truth for application status, eligibility, compensation, and hiring decisions.
