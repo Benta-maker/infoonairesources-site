@@ -1,0 +1,8 @@
+# Netlify deployment configuration for the static Info on AI Resources site.
+# The repository root is the publish directory because the site is plain HTML.
+[build]
+  publish = "."
+  command = ""
+
+[build.environment]
+  NODE_VERSION = "20"
