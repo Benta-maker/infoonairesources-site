@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Allow: /jobs/
+
+Sitemap: https://www.infoonairesources.shop/sitemap.xml
