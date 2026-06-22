@@ -1,6 +1,7 @@
 User-agent: *
 Allow: /
 Allow: /jobs/
+Allow: /opportunities/jobs/
 Allow: /llms.txt
 
 Sitemap: https://www.infoonairesources.shop/sitemap.xml
